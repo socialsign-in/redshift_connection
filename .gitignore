@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+.aws_creds
+
 # Distribution / packaging
 .Python
 env/
