@@ -1,0 +1,4 @@
+
+psycopg2
+pytz
+boto==2.45.0

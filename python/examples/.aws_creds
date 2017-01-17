@@ -1,0 +1,4 @@
+[global]
+aws_key = xxxxxxxxxxxxxxx
+aws_secret = xxxxxxxxxxxxxxxxxxxxxx 
+load_conn_string = user='blah' host='*****************.redshift.amazonaws.com' port='54**' dbname='somedb' password='789pass'
